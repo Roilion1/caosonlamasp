@@ -1,0 +1,6 @@
+@CAOSONLAM1_2122110089_HostAddress = http://localhost:5056
+
+GET {{CAOSONLAM1_2122110089_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
