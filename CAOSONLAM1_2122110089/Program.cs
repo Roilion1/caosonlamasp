@@ -1,4 +1,7 @@
 
+using CAOSONLAM1_2122110089.Data;
+using Microsoft.EntityFrameworkCore;
+
 namespace CAOSONLAM1_2122110089
 {
     public class Program
@@ -13,6 +16,9 @@ namespace CAOSONLAM1_2122110089
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
+
+            builder.Services.AddDbContext<AppDbContext>(options =>
+            options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
             var app = builder.Build();
 

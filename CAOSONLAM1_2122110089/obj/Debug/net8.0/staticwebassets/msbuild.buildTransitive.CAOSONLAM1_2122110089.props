@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CAOSONLAM1_2122110089.props" />
+</Project>
