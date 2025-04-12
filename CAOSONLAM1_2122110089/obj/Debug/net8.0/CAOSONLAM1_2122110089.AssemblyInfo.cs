@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CAOSONLAM1_2122110089")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7eb26c3286e72fa241e809983a18aa0f2848abac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e022ae1122780e3bfbfc906d0770575efab8a71")]
 [assembly: System.Reflection.AssemblyProductAttribute("CAOSONLAM1_2122110089")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CAOSONLAM1_2122110089")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

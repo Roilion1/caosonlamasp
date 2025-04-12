@@ -3,40 +3,44 @@
   "WorkspaceRootPath": "D:\\CAOSONLAM1_2122110089\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A3A28C93-4EF5-4B1B-A820-E4E57B2574BE}|CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089.csproj|d:\\caosonlam1_2122110089\\caosonlam1_2122110089\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A28C93-4EF5-4B1B-A820-E4E57B2574BE}|CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089.csproj|solutionrelative:caosonlam1_2122110089\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A3A28C93-4EF5-4B1B-A820-E4E57B2574BE}|CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089.csproj|d:\\caosonlam1_2122110089\\caosonlam1_2122110089\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3A28C93-4EF5-4B1B-A820-E4E57B2574BE}|CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089.csproj|solutionrelative:caosonlam1_2122110089\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3A28C93-4EF5-4B1B-A820-E4E57B2574BE}|CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089.csproj|d:\\caosonlam1_2122110089\\caosonlam1_2122110089\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3A28C93-4EF5-4B1B-A820-E4E57B2574BE}|CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089.csproj|solutionrelative:caosonlam1_2122110089\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3A28C93-4EF5-4B1B-A820-E4E57B2574BE}|CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089.csproj|d:\\caosonlam1_2122110089\\caosonlam1_2122110089\\controller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3A28C93-4EF5-4B1B-A820-E4E57B2574BE}|CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089.csproj|solutionrelative:caosonlam1_2122110089\\controller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3A28C93-4EF5-4B1B-A820-E4E57B2574BE}|CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089.csproj|d:\\caosonlam1_2122110089\\caosonlam1_2122110089\\caosonlam1_2122110089.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{A3A28C93-4EF5-4B1B-A820-E4E57B2574BE}|CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089.csproj|solutionrelative:caosonlam1_2122110089\\caosonlam1_2122110089.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3A28C93-4EF5-4B1B-A820-E4E57B2574BE}|CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089.csproj|d:\\caosonlam1_2122110089\\caosonlam1_2122110089\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A3A28C93-4EF5-4B1B-A820-E4E57B2574BE}|CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089.csproj|solutionrelative:caosonlam1_2122110089\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3A28C93-4EF5-4B1B-A820-E4E57B2574BE}|CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089.csproj|d:\\caosonlam1_2122110089\\caosonlam1_2122110089\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3A28C93-4EF5-4B1B-A820-E4E57B2574BE}|CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089.csproj|solutionrelative:caosonlam1_2122110089\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3A28C93-4EF5-4B1B-A820-E4E57B2574BE}|CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089.csproj|d:\\caosonlam1_2122110089\\caosonlam1_2122110089\\controller\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A28C93-4EF5-4B1B-A820-E4E57B2574BE}|CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089.csproj|solutionrelative:caosonlam1_2122110089\\controller\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A3A28C93-4EF5-4B1B-A820-E4E57B2574BE}|CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089.csproj|d:\\caosonlam1_2122110089\\caosonlam1_2122110089\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3A28C93-4EF5-4B1B-A820-E4E57B2574BE}|CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089.csproj|solutionrelative:caosonlam1_2122110089\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3A28C93-4EF5-4B1B-A820-E4E57B2574BE}|CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089.csproj|d:\\caosonlam1_2122110089\\caosonlam1_2122110089\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3A28C93-4EF5-4B1B-A820-E4E57B2574BE}|CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089.csproj|solutionrelative:caosonlam1_2122110089\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3A28C93-4EF5-4B1B-A820-E4E57B2574BE}|CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089.csproj|d:\\caosonlam1_2122110089\\caosonlam1_2122110089\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A28C93-4EF5-4B1B-A820-E4E57B2574BE}|CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089.csproj|solutionrelative:caosonlam1_2122110089\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A28C93-4EF5-4B1B-A820-E4E57B2574BE}|CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089.csproj|d:\\caosonlam1_2122110089\\caosonlam1_2122110089\\migrations\\20250412034137_updatecategorytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A28C93-4EF5-4B1B-A820-E4E57B2574BE}|CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089.csproj|solutionrelative:caosonlam1_2122110089\\migrations\\20250412034137_updatecategorytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A3A28C93-4EF5-4B1B-A820-E4E57B2574BE}|CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089.csproj|d:\\caosonlam1_2122110089\\caosonlam1_2122110089\\caosonlam1_2122110089.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{A3A28C93-4EF5-4B1B-A820-E4E57B2574BE}|CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089.csproj|solutionrelative:caosonlam1_2122110089\\caosonlam1_2122110089.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A28C93-4EF5-4B1B-A820-E4E57B2574BE}|CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089.csproj|d:\\caosonlam1_2122110089\\caosonlam1_2122110089\\model\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A28C93-4EF5-4B1B-A820-E4E57B2574BE}|CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089.csproj|solutionrelative:caosonlam1_2122110089\\model\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A28C93-4EF5-4B1B-A820-E4E57B2574BE}|CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089.csproj|d:\\caosonlam1_2122110089\\caosonlam1_2122110089\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A28C93-4EF5-4B1B-A820-E4E57B2574BE}|CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089.csproj|solutionrelative:caosonlam1_2122110089\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A28C93-4EF5-4B1B-A820-E4E57B2574BE}|CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089.csproj|d:\\caosonlam1_2122110089\\caosonlam1_2122110089\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A3A28C93-4EF5-4B1B-A820-E4E57B2574BE}|CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089.csproj|solutionrelative:caosonlam1_2122110089\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,123 +50,136 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089\\appsettings.json",
-              "RelativeDocumentMoniker": "CAOSONLAM1_2122110089\\appsettings.json",
-              "ToolTip": "D:\\CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089\\appsettings.json",
-              "RelativeToolTip": "CAOSONLAM1_2122110089\\appsettings.json",
+              "DocumentIndex": 5,
+              "Title": "20250412034137_UpdateCategoryTable.cs",
+              "DocumentMoniker": "D:\\CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089\\Migrations\\20250412034137_UpdateCategoryTable.cs",
+              "RelativeDocumentMoniker": "CAOSONLAM1_2122110089\\Migrations\\20250412034137_UpdateCategoryTable.cs",
+              "ToolTip": "D:\\CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089\\Migrations\\20250412034137_UpdateCategoryTable.cs",
+              "RelativeToolTip": "CAOSONLAM1_2122110089\\Migrations\\20250412034137_UpdateCategoryTable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-05T03:09:27.132Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CAOSONLAM1_2122110089.http",
-              "DocumentMoniker": "D:\\CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089.http",
-              "RelativeDocumentMoniker": "CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089.http",
-              "ToolTip": "D:\\CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089.http",
-              "RelativeToolTip": "CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-04-05T03:09:24.229Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "D:\\CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "CAOSONLAM1_2122110089\\WeatherForecast.cs",
-              "ToolTip": "D:\\CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089\\WeatherForecast.cs",
-              "RelativeToolTip": "CAOSONLAM1_2122110089\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T02:50:28.929Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089\\Program.cs",
-              "RelativeDocumentMoniker": "CAOSONLAM1_2122110089\\Program.cs",
-              "ToolTip": "D:\\CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089\\Program.cs",
-              "RelativeToolTip": "CAOSONLAM1_2122110089\\Program.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAAAEoAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T02:28:09.164Z",
+              "WhenOpened": "2025-04-12T03:41:37.659Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "D:\\CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089\\Controller\\ProductController.cs",
-              "RelativeDocumentMoniker": "CAOSONLAM1_2122110089\\Controller\\ProductController.cs",
-              "ToolTip": "D:\\CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089\\Controller\\ProductController.cs",
-              "RelativeToolTip": "CAOSONLAM1_2122110089\\Controller\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089\\Controller\\CategoryController.cs",
+              "RelativeDocumentMoniker": "CAOSONLAM1_2122110089\\Controller\\CategoryController.cs",
+              "ToolTip": "D:\\CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089\\Controller\\CategoryController.cs",
+              "RelativeToolTip": "CAOSONLAM1_2122110089\\Controller\\CategoryController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAmwDIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T02:18:08.075Z",
+              "WhenOpened": "2025-04-12T03:32:06.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "CAOSONLAM1_2122110089\\Model\\Category.cs",
+              "ToolTip": "D:\\CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089\\Model\\Category.cs",
+              "RelativeToolTip": "CAOSONLAM1_2122110089\\Model\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T03:30:13.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089\\appsettings.json",
+              "RelativeDocumentMoniker": "CAOSONLAM1_2122110089\\appsettings.json",
+              "ToolTip": "D:\\CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089\\appsettings.json",
+              "RelativeToolTip": "CAOSONLAM1_2122110089\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-12T03:22:46.977Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "CAOSONLAM1_2122110089",
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089\\Model\\User.cs",
+              "RelativeDocumentMoniker": "CAOSONLAM1_2122110089\\Model\\User.cs",
+              "ToolTip": "D:\\CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089\\Model\\User.cs",
+              "RelativeToolTip": "CAOSONLAM1_2122110089\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T02:49:23.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.cs",
+              "DocumentMoniker": "D:\\CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089\\Model\\Register.cs",
+              "RelativeDocumentMoniker": "CAOSONLAM1_2122110089\\Model\\Register.cs",
+              "ToolTip": "D:\\CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089\\Model\\Register.cs",
+              "RelativeToolTip": "CAOSONLAM1_2122110089\\Model\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T02:22:12.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089\\Program.cs",
+              "RelativeDocumentMoniker": "CAOSONLAM1_2122110089\\Program.cs",
+              "ToolTip": "D:\\CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089\\Program.cs",
+              "RelativeToolTip": "CAOSONLAM1_2122110089\\Program.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAwwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T02:11:01.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089\\Controller\\UserController.cs",
+              "RelativeDocumentMoniker": "CAOSONLAM1_2122110089\\Controller\\UserController.cs",
+              "ToolTip": "D:\\CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089\\Controller\\UserController.cs",
+              "RelativeToolTip": "CAOSONLAM1_2122110089\\Controller\\UserController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAiwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T01:39:36.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CAOSONLAM1_2122110089.csproj",
               "DocumentMoniker": "D:\\CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089.csproj",
               "RelativeDocumentMoniker": "CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089.csproj",
               "ToolTip": "D:\\CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089.csproj",
               "RelativeToolTip": "CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-04-05T02:08:31.085Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089\\Model\\Category.cs",
-              "RelativeDocumentMoniker": "CAOSONLAM1_2122110089\\Model\\Category.cs",
-              "ToolTip": "D:\\CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089\\Model\\Category.cs",
-              "RelativeToolTip": "CAOSONLAM1_2122110089\\Model\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T03:02:40.506Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "CAOSONLAM1_2122110089\\Data\\AppDbContext.cs",
               "ToolTip": "D:\\CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089\\Data\\AppDbContext.cs",
               "RelativeToolTip": "CAOSONLAM1_2122110089\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-29T02:08:01.481Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089\\Model\\Product.cs",
-              "RelativeDocumentMoniker": "CAOSONLAM1_2122110089\\Model\\Product.cs",
-              "ToolTip": "D:\\CAOSONLAM1_2122110089\\CAOSONLAM1_2122110089\\Model\\Product.cs",
-              "RelativeToolTip": "CAOSONLAM1_2122110089\\Model\\Product.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA5wAwAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T01:51:21.312Z",
               "EditorCaption": ""
             }
           ]
