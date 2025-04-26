@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.table-custom {
+  @apply w-full border border-slate-400 p-2 text-left;
+}
+.table-custom td, .table-custom th
+{
+    @apply border border-slate-300 p-1
+}
+.table-custom th
+{
+     @apply border-slate-200
+}
+.table-custom tr:nth-child(even), .table-custom tr:hover
+{
+    @apply bg-slate-200
+}

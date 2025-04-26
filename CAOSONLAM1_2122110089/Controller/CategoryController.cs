@@ -64,6 +64,7 @@ namespace CAOSONLAM1_2122110089.Controller
             // Cập nhật các thuộc tính của category
             existingCategory.Name = category.Name;
             existingCategory.Description = category.Description;
+            existingCategory.Avata = category.Avata;
             existingCategory.UpdatedAt = DateTime.UtcNow;
 
             // Đánh dấu entity là Modified để EF Core biết cần cập nhật
@@ -87,6 +88,23 @@ namespace CAOSONLAM1_2122110089.Controller
             _context.Categories.Remove(category);
             await _context.SaveChangesAsync();
             return Ok(new { message = "Deleted successfully" });
+        }
+
+        // Phương thức upload ảnh riêng cho nội bộ controller dùng
+        private async Task<string> SaveImage(IFormFile file)
+        {
+            var fileName = Guid.NewGuid().ToString() + Path.GetExtension(file.FileName);
+            var folderPath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "Images");
+            Directory.CreateDirectory(folderPath);
+            var filePath = Path.Combine(folderPath, fileName);
+
+            using (var stream = new FileStream(filePath, FileMode.Create))
+            {
+                await file.CopyToAsync(stream);
+            }
+
+            var imageUrl = $"{Request.Scheme}://{Request.Host}/Images/{fileName}";
+            return imageUrl;
         }
     }
 }

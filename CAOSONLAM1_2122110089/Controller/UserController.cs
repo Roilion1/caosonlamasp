@@ -5,6 +5,8 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Win32;
 using BCrypt.Net;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Identity.Data;
+using Microsoft.EntityFrameworkCore;
 
 namespace CAOSONLAM1_2122110089.Controllers
 {
@@ -43,19 +45,48 @@ namespace CAOSONLAM1_2122110089.Controllers
 
             var token = _jwtService.GenerateToken(user.Email);
 
-            return Ok(new { message = "Đăng ký thành công", token }); // Trả token nhưng chưa đăng nhập
+            return Ok(new { message = "Đăng ký thành công", token }); 
         }
         [HttpPost("login")]
-        public IActionResult Login([FromBody] Login model)
+        public async Task<IActionResult> Login([FromBody] LoginRequest request)
         {
-            var user = pro.Users.SingleOrDefault(u => u.Email == model.Email);
-            if (user == null || !BCrypt.Net.BCrypt.Verify(model.Password, user.Password))
-                return Unauthorized(new { error = "Sai email hoặc mật khẩu" });
+            var user = await pro.Users.FirstOrDefaultAsync(u => u.Email == request.Email);
 
+            // Kiểm tra mật khẩu có khớp không bằng cách dùng BCrypt để so sánh
+            if (user == null || !BCrypt.Net.BCrypt.Verify(request.Password, user.Password))
+                return Unauthorized(new { message = "Email hoặc mật khẩu không đúng." });
+
+            // Tạo token bằng JwtService
             var token = _jwtService.GenerateToken(user.Email);
 
-            return Ok(new { message = "Đăng nhập thành công", token, user.Name, user.Email });
+            return Ok(new
+            {
+                id = user.Id,
+                name = user.Name,
+                email = user.Email,
+                token = token
+            });
         }
+        [HttpGet("customerInfo")]
+        [Authorize]
+        public async Task<IActionResult> GetCustomerInfo()
+        {
+            var userEmail = User.Identity.Name;  // Lấy email từ token
+            var user = await pro.Users.FirstOrDefaultAsync(u => u.Email == userEmail);
 
+            if (user == null)
+            {
+                return NotFound(new { message = "Không tìm thấy thông tin khách hàng." });
+            }
+
+            return Ok(new
+            {
+                id = user.Id,
+                name = user.Name,
+                email = user.Email,
+                phone = user.Phone,
+                address = user.Address
+            });
+        }
     }
 }
